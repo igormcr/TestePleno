@@ -1,0 +1,15 @@
+E:\source\ConsoleApp1\bin\Debug\net5.0\TestePleno.exe
+E:\source\ConsoleApp1\bin\Debug\net5.0\TestePleno.deps.json
+E:\source\ConsoleApp1\bin\Debug\net5.0\TestePleno.runtimeconfig.json
+E:\source\ConsoleApp1\bin\Debug\net5.0\TestePleno.runtimeconfig.dev.json
+E:\source\ConsoleApp1\bin\Debug\net5.0\TestePleno.dll
+E:\source\ConsoleApp1\bin\Debug\net5.0\ref\TestePleno.dll
+E:\source\ConsoleApp1\bin\Debug\net5.0\TestePleno.pdb
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.AssemblyInfoInputs.cache
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.AssemblyInfo.cs
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.csproj.CoreCompileInputs.cache
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.dll
+E:\source\ConsoleApp1\obj\Debug\net5.0\ref\TestePleno.dll
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.pdb
+E:\source\ConsoleApp1\obj\Debug\net5.0\TestePleno.genruntimeconfig.cache
